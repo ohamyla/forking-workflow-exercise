@@ -1,4 +1,4 @@
-Ingredients:
+# Ingredients
 - ½ cup bulgur
 - 1 cup diced cucumber (1 small-to-medium)
 - 1 cup diced tomato* (1 large)
@@ -10,7 +10,7 @@ Ingredients:
 - 3 to 4 tablespoons lemon juice, to taste
 - 1 medium clove garlic, pressed or minced
 
-Instructions:
+# Instructions
 - Cook or soak bulgur as indicated on the package, drain, and let cool.
 - Mix diced cucumber and tomato with ½ teaspoon salt, let sit for at least 10 minutes.
 - Prepare parsley by removing thick stems, finely chopping the leaves and thin stems, and placing them in a large bowl.
