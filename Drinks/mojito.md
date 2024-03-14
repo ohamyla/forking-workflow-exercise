@@ -1,6 +1,6 @@
 # Mojito Recipe
 
-## Ingredents
+## Ingredients
 
 
     10 fresh mint leaves
