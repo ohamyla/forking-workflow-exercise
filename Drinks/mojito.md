@@ -30,5 +30,4 @@ Step 5:  Stir, taste, and add more sugar if desired.
 Step 6: Enjoy! :D
 
 ## Source
-[
-](https://www.allrecipes.com/recipe/147363/the-real-mojito/)https://www.allrecipes.com/recipe/147363/the-real-mojito/ 
+[https://www.allrecipes.com/recipe/147363/the-real-mojito/](https://www.allrecipes.com/recipe/147363/the-real-mojito/)
